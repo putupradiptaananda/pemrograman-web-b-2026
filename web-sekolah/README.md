@@ -1,7 +1,10 @@
-# TUGAS 2 - Website Sekolah
+# TUGAS 2 - Website SMAN 4 Denpasar
 
-Link website: https://web-sekolah-sable.vercel.app/
-## Rencana Isi
+## Sumber referensi/web asli
+- https://sman4dps.sch.id/
+
+## Deskripsi, fitur/menu
+Webiste ini dibuat untuk menampilkan informasi tentang sekolah SMAN 4 Denpasar, dengan fitur/menu sebagai berikut:
 - Home
     - Sambutan kepala sekolah
     - Visi dan Misi
@@ -10,7 +13,6 @@ Link website: https://web-sekolah-sable.vercel.app/
     - Jumlah siswa per jurusan tiap tahun
 - Kontak, pengiriman pesan langsung ke email sekolah.
 
-Saya tidak membuat wireframe karena saya baru belajar HTML dan CSS, jadi saya langsung buat, dan desain berdasarkan kemampuan saya saat ini.
 
 ## Screenshot
 ### 1. Home
@@ -21,3 +23,19 @@ Saya tidak membuat wireframe karena saya baru belajar HTML dan CSS, jadi saya la
 
 ### 3. Kontak
 ![](./readme-assets/Screenshot%202026-09-22%20172314.png)
+
+## Wireframe
+### 1. Home
+![](./readme-assets/SMAN%204%20Denpasar%20homepage%20wireframe.png)
+
+### 2. Jurusan
+![](./readme-assets/Jurusan%20page%20wireframe.png)
+
+### 3. Kontak
+![](./readme-assets/Kontak%20page%20wireframe.png)
+
+## Source Code
+- [Source Code](./)
+
+## Alaman URL Website
+- https://web-sekolah-sable.vercel.app/
