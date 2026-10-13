@@ -35,7 +35,7 @@ Webiste ini dibuat untuk menampilkan informasi tentang sekolah SMAN 4 Denpasar, 
 ![](./readme-assets/Kontak%20page%20wireframe.png)
 
 ## Source Code
-- [Source Code](./)
+- [Source Code](../web-sekolah/)
 
 ## Alaman URL Website
 - https://web-sekolah-sable.vercel.app/
