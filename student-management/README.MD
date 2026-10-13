@@ -26,7 +26,8 @@
 ## Screenshot
 ![](./readme-assets/Screenshot%202026-10-12%20210349.png)
 ## Wireframe
-![](./readme-assets/Student%20Management%20Wireframe.png)
+![](./readme-assets/Student%20Management%20wireframe.png)
+
 ## Desain UI
 
 | Elemen Desain | Detail |
