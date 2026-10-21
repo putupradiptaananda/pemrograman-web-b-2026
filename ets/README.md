@@ -42,3 +42,5 @@ Navigation Menu:
 Warna biru sebagai tanda hero section.
 
 ## 4. Implementasikan dan publis web yang dibuat.
+
+Link website: https://library-reg-two.vercel.app/
