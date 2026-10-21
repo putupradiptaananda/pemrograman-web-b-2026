@@ -7,3 +7,4 @@
 | [Tugas 3](./prd-web-sekolah/README.md)                                                  | Membuat PRD website sekolah       | -                                                  |
 | [Tugas 4](./student-management/README.md)                                               | Membuat form management mahasiswa | https://student-management-azure-alpha.vercel.app/ |
 | [Tugas 5](./latihan-bootstrap/README.md)                                                | Latihan Bootstrap                 | https://latihan-bootstrap-amber.vercel.app/        |
+| [ETS](./ets/README.md)                                                                  | Evaluasi Tengah Semester          | -                                                  |
