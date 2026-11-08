@@ -46,3 +46,5 @@
 - [Source code](./)
 
 ## Alaman URL Website
+
+- https://news.manzera.my.id/
