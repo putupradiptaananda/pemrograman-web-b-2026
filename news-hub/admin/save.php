@@ -27,7 +27,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     if ($id) {
         // UPDATE
-        $sql = "UPDATE news SET news_title='$title', news_category='$category', news_content='$content' WHERE news_id='$id'";
+        $sql = "UPDATE news SET news_title='$title', news_category='$category', news_content='$content' WHERE news_id='" . (int)$id . "'";
     } else {
         // INSERT
         $author_id = $_SESSION['usr_id'];

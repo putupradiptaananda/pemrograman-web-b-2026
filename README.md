@@ -7,4 +7,6 @@
 | [Tugas 3](./prd-web-sekolah/README.md)                                                  | Membuat PRD website sekolah       | -                                                  |
 | [Tugas 4](./student-management/README.md)                                               | Membuat form management mahasiswa | https://student-management-azure-alpha.vercel.app/ |
 | [Tugas 5](./latihan-bootstrap/README.md)                                                | Latihan Bootstrap                 | https://latihan-bootstrap-amber.vercel.app/        |
-| [ETS](./ets/README.md)                                                                  | Evaluasi Tengah Semester          | -                                                  |
+| [ETS](./ets/README.md)                                                                  | Evaluasi Tengah Semester          | https://library-reg-two.vercel.app/-               |
+| [Tugas 6](./news-hub/README.md)                                                         | News hub                          | https://news.manzera.my.id/                        |
+|                                                                                         |
