@@ -9,4 +9,5 @@
 | [Tugas 5](./latihan-bootstrap/README.md)                                                | Latihan Bootstrap                 | https://latihan-bootstrap-amber.vercel.app/        |
 | [ETS](./ets/README.md)                                                                  | Evaluasi Tengah Semester          | https://library-reg-two.vercel.app/-               |
 | [Tugas 6](./news-hub/README.md)                                                         | News hub                          | https://news.manzera.my.id/                        |
+| [Tugas 7](./ppdb/README.md)                                                             | Database PPDB Onlie SMK Nusantara | -                                                  |
 |                                                                                         |
