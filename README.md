@@ -1,13 +1,14 @@
 # Tugas Pemrograman Web B 2026
 
-| Tugas dan link dokumentasi                                                              | Deskripsi Tugas                   | Link website                                       |
-| --------------------------------------------------------------------------------------- | --------------------------------- | -------------------------------------------------- |
-| [Tugas 1](https://github.com/putupradiptaananda/putupradiptaananda.github.io/README.md) | Membuat CV                        | https://putupradiptaananda.github.io/              |
-| [Tugas 2](./web-sekolah/README.md)                                                      | Membuat website sekolah           | https://web-sekolah-sable.vercel.app/              |
-| [Tugas 3](./prd-web-sekolah/README.md)                                                  | Membuat PRD website sekolah       | -                                                  |
-| [Tugas 4](./student-management/README.md)                                               | Membuat form management mahasiswa | https://student-management-azure-alpha.vercel.app/ |
-| [Tugas 5](./latihan-bootstrap/README.md)                                                | Latihan Bootstrap                 | https://latihan-bootstrap-amber.vercel.app/        |
-| [ETS](./ets/README.md)                                                                  | Evaluasi Tengah Semester          | https://library-reg-two.vercel.app/-               |
-| [Tugas 6](./news-hub/README.md)                                                         | News hub                          | https://news.manzera.my.id/                        |
-| [Tugas 7](./ppdb/README.md)                                                             | Database PPDB Onlie SMK Nusantara | -                                                  |
+| Tugas dan link dokumentasi                                                              | Deskripsi Tugas                               | Link website                                       |
+| --------------------------------------------------------------------------------------- | --------------------------------------------- | -------------------------------------------------- |
+| [Tugas 1](https://github.com/putupradiptaananda/putupradiptaananda.github.io/README.md) | Membuat CV                                    | https://putupradiptaananda.github.io/              |
+| [Tugas 2](./web-sekolah/README.md)                                                      | Membuat website sekolah                       | https://web-sekolah-sable.vercel.app/              |
+| [Tugas 3](./prd-web-sekolah/README.md)                                                  | Membuat PRD website sekolah                   | -                                                  |
+| [Tugas 4](./student-management/README.md)                                               | Membuat form management mahasiswa             | https://student-management-azure-alpha.vercel.app/ |
+| [Tugas 5](./latihan-bootstrap/README.md)                                                | Latihan Bootstrap                             | https://latihan-bootstrap-amber.vercel.app/        |
+| [ETS](./ets/README.md)                                                                  | Evaluasi Tengah Semester                      | https://library-reg-two.vercel.app/-               |
+| [Tugas 6](./news-hub/README.md)                                                         | News hub                                      | https://news.manzera.my.id/                        |
+| [Tugas 7](./ppdb/README.md)                                                             | Database PPDB Onlie SMK Nusantara             | -                                                  |
+| [Tugas 8](./ppdb/autentikasi/README.md)                                                 | Registrasi dan login PPDB Onlie SMK Nusantara | -                                                  |
 |                                                                                         |
